@@ -1,3 +1,5 @@
+![Travis Build status](https://travis-ci.org/adamatti/LearnJava.svg?branch=master)
+
 Sample project for programers that are learning java
 
 #### Run with Maven
