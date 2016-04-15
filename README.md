@@ -1,4 +1,4 @@
-[![Travis Build status](https://travis-ci.org/adamatti/LearnJava.svg?branch=master)](https://travis-ci.org/adamatti/LearnJava)
+[![Travis Build status](https://travis-ci.org/adamatti/LearnJava.svg?branch=master)](https://travis-ci.org/adamatti/LearnJava) [![codecov.io](https://codecov.io/github/adamatti/LearnJava/coverage.svg?branch=master)](https://codecov.io/github/adamatti/LearnJava?branch=master)
 
 Sample project for programers that are learning java
 
