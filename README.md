@@ -1,4 +1,4 @@
-![Travis Build status](https://travis-ci.org/adamatti/LearnJava.svg?branch=master)
+[![Travis Build status](https://travis-ci.org/adamatti/LearnJava.svg?branch=master)](https://travis-ci.org/adamatti/LearnJava)
 
 Sample project for programers that are learning java
 
